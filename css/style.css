@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(240, 240, 240);
+    text-align: center;
+}
+
+iframe{
+    width: 26rem;
+    height: 26rem;
+    display: inline-block;
+}
